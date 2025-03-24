@@ -1,12 +1,8 @@
 //Title Contact directory system with address
 #include <iostream>
-/*  Group Members			ID number
-    1 Yohanis Feleke 		 RU1726/14
-    2.Yawukal Addis			 RU3616/14
-    3.Dagmawit Teshome 	 	 RU0465/14
-    4.Ayana Gebreyesus	     RU3560/14
-    5.Bezawit Belay        	 RU0351/14
-                group 3;
+/*  
+     Yohanis Feleke 		 RU1726/14
+  
     */
 using namespace std;
 struct Contact{ //used to create Single linked list of Contact
