@@ -1,7 +1,7 @@
 //Title Contact directory system with address
 #include <iostream>
 /*  
-     Yohanis Feleke 		 RU1726/14
+     Yohanis Feleke
   
     */
 using namespace std;
