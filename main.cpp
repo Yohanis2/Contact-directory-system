@@ -97,15 +97,6 @@ void SaveAtEnd();
     cout<<"\t-------------------------------------------"<<endl;
 
 
-    if(regOption==1){
-        SaveAtFirst();
-    }
-    else if(regOption==2){
-        SaveAtEnd();
-    }
-    else{
-        cout<<"\t\tWrong Input! \n\t\tPlease Try Again!\n";
-    }
 
 }
 void SaveAtFirst(){
